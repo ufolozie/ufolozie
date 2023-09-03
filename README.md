@@ -1,4 +1,4 @@
-_Hi there! I'm ufolozie. 👩🏻‍🚀💻✨_
+***Hi there! I'm ufolozie. 👩🏻‍🚀💻✨***
 
 <!--
 **ufolozie/ufolozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
