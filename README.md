@@ -1,6 +1,6 @@
 ### _Hi there!_
 ##### ☁ Major in Software (undergraduate)
-##### ☁ Tech Blog ➰ https://ufolozie.github.io
+##### ☁ Tech Blog ➿ https://ufolozie.github.io
  
 <!--
 **ufolozie/ufolozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
