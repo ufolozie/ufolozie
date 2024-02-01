@@ -1,4 +1,4 @@
-### _Hi there-!_
+### _Hi there!_
 &nbsp;
 ##### ☁ Major in Software (undergraduate)
 ##### ☁ Tech Blog › https://ufolozie.github.io
