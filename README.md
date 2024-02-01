@@ -1,5 +1,9 @@
-### _Hi there!💻✨_
+### _Hi there!_
 
+##### 🎓 I'm majoring in Software.
+##### 🔭 I'm currently studying AI.
+##### 💻 Tech Blog ⇾ https://ufolozie.github.io
+ 
 <!--
 **ufolozie/ufolozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
